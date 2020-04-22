@@ -1,6 +1,7 @@
 
 # Using Nested Loops - Lab
-
+## EDIT
+- I've made these changes.
 ## Introduction
 In this lab, you'll practice using nested loops to iterate over nested data structures and create new collections. To do this, you'll be using data from a soccer match to practice our nested loops.
 
